@@ -1,0 +1,24 @@
+header{
+    background-color: blue;
+    position: static;
+    opacity: 0.5;
+}
+#i{
+    background-color: aqua;
+    position: fixed;
+    opacity: 0.5;
+}
+#g{
+    position: relative;
+    opacity:0.5;
+}
+#p1{
+background-color: red;
+position:absolute;
+opacity: 0.5;
+}
+#p3{
+    background-color: bisque;
+    position: sticky;
+    opacity: 0.5;
+}
