@@ -1,0 +1,24 @@
+header{
+    background-color: blueviolet;
+    position: static;
+    opacity: 0.5;
+}
+#i{
+    background-color: firebrick;
+    position: fixed;
+    opacity: 0.5;
+}
+#g{
+    position: relative;
+    opacity:0.5;
+}
+#p1{
+background-color:teal;
+position:absolute;
+opacity: 0.5;
+}
+#p3{
+    background-color: greenyellow;
+    position: sticky;
+    opacity: 0.5;
+}
